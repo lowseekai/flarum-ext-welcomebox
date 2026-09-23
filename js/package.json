@@ -25,7 +25,5 @@
         "check-typings-coverage": "typescript-coverage-report"
     },
     "prettier": "@flarum/prettier-config",
-    "dependencies": {
-        "date-fns": "^4.1.0"
-    }
+    "dependencies": {}
 }
